@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Ryan4037/Ryan4037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋, I'm Mohammed
+Student • Developer • Problem Solver
+Building projects, learning new technologies, and preparing for GCSE success.
 
-Here are some ideas to get you started:
+🚀 About Me
+🎓 Year 11 student in England
+💻 Learning Python and Web Development
+🧮 Strong interest in Maths and logical problem-solving
+🔬 Studying AQA GCSE Mathematics and Sciences
+🌱 Currently improving my Git, GitHub and JavaScript skills
+🛠 Languages & Tools
+Python HTML CSS Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Current Projects
+🎓 Subject Picker
+💡 Personal coding experiments
+
+📫 Contact
+Feel free to explore my repositories and follow my journey!
